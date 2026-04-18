@@ -10,6 +10,15 @@ section.carrito {
     padding: 1em;
 }
 
+section.carrito h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+section.carrito ul {
+    list-style-type: circle;
+}
+
 .main-footer {
     background-color: #235;
     color: #fff;
