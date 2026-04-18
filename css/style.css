@@ -9,3 +9,10 @@ section.carrito {
     background-color: #f8f8f0;
     padding: 1em;
 }
+
+.main-footer {
+    background-color: #235;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
