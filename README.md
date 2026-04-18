@@ -13,4 +13,4 @@ Pasos para configurar el sitio
 1. Hacer esto
 2. También esto
 3. Y esto otro
-4. Listo!
+4. ¡Listo!
