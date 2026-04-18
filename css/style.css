@@ -3,3 +3,9 @@ body {
     color: #333;
     background-color: #f2f2f2;
 }
+
+section.carrito {
+    border: 3px solid #3337;
+    background-color: #f8f8f0;
+    padding: 1em;
+}
