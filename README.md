@@ -1,6 +1,6 @@
 # Sitio web
 
-## Sitio de prueba
+## Sitio de prueba para el curso de Git
 
 Este *repo* tiene un sitio web creado para el **curso de Git de los sábados** de abril de 2026.
 
