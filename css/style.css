@@ -9,3 +9,12 @@ section.carrito {
     background-color: #f8f8f0;
     padding: 1em;
 }
+
+section.carrito h2 {
+    text-decoration: underline;
+}
+
+section.carrito ul {
+    list-style-type: circle;
+}
+
